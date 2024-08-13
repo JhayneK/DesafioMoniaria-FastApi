@@ -1,0 +1,70 @@
+2024-08-08 10:34:26,058 - DEBUG - Root endpoint accessed
+2024-08-08 10:46:44,321 - DEBUG - Root endpoint accessed
+2024-08-08 10:46:44,321 - INFO - Testing Info
+2024-08-08 10:46:44,321 - WARNING - Testing Warning
+2024-08-08 10:46:44,321 - ERROR - Testing Error
+2024-08-08 10:46:59,219 - DEBUG - Root endpoint accessed
+2024-08-08 10:46:59,220 - INFO - Testing Info
+2024-08-08 10:46:59,220 - WARNING - Testing Warning
+2024-08-08 10:46:59,220 - ERROR - Testing Error
+2024-08-08 10:48:47,729 - DEBUG - Root endpoint accessed
+2024-08-08 10:48:47,729 - INFO - Testing Info
+2024-08-08 10:48:47,729 - WARNING - Testing Warning
+2024-08-08 10:48:47,729 - ERROR - Testing Error
+2024-08-08 13:09:04,854 - DEBUG - Root endpoint accessed
+2024-08-08 13:09:04,855 - INFO - Testing Info
+2024-08-08 13:09:04,855 - WARNING - Testing Warning
+2024-08-08 13:09:04,855 - ERROR - Testing Error
+2024-08-08 14:37:33,913 - DEBUG - Using proactor: IocpProactor
+2024-08-08 14:48:11,174 - DEBUG - Root endpoint accessed
+2024-08-08 14:48:11,174 - INFO - Testing Info
+2024-08-08 14:48:11,174 - WARNING - Testing Warning
+2024-08-08 14:48:11,174 - ERROR - Testing Error
+2024-08-08 14:52:35,004 - DEBUG - Root endpoint accessed
+2024-08-08 14:52:35,004 - INFO - Testing Info
+2024-08-08 14:52:35,004 - WARNING - Testing Warning
+2024-08-08 14:52:35,004 - ERROR - Testing Error
+2024-08-08 14:53:34,278 - DEBUG - Using proactor: IocpProactor
+2024-08-08 14:53:47,961 - DEBUG - Root endpoint accessed
+2024-08-08 14:53:47,961 - INFO - Testing Info
+2024-08-08 14:53:47,961 - WARNING - Testing Warning
+2024-08-08 14:53:47,961 - ERROR - Testing Error
+2024-08-08 15:27:18,967 - INFO - User stanleyjobson requested
+2024-08-09 10:47:42,510 - DEBUG - Root endpoint accessed
+2024-08-09 10:47:42,510 - INFO - Testing Info
+2024-08-09 10:47:42,510 - WARNING - Testing Warning
+2024-08-09 10:47:42,510 - ERROR - Testing Error
+2024-08-09 13:20:31,980 - INFO - User stanleyjobson requested
+2024-08-09 13:20:37,397 - DEBUG - Root endpoint accessed
+2024-08-09 13:20:37,398 - INFO - Testing Info
+2024-08-09 13:20:37,398 - WARNING - Testing Warning
+2024-08-09 13:20:37,398 - ERROR - Testing Error
+2024-08-09 14:21:54,953 - DEBUG - Using proactor: IocpProactor
+2024-08-09 14:22:07,953 - DEBUG - Root endpoint accessed
+2024-08-09 14:22:07,953 - INFO - Testing Info
+2024-08-09 14:22:07,953 - WARNING - Testing Warning
+2024-08-09 14:22:07,953 - ERROR - Testing Error
+2024-08-12 11:14:50,199 - DEBUG - Root endpoint accessed
+2024-08-12 11:14:50,199 - INFO - Testing Info
+2024-08-12 11:14:50,199 - WARNING - Testing Warning
+2024-08-12 11:14:50,199 - ERROR - Testing Error
+2024-08-12 12:05:28,140 - DEBUG - Using proactor: IocpProactor
+2024-08-12 12:08:05,924 - DEBUG - Root endpoint accessed
+2024-08-12 12:08:05,925 - INFO - Testing Info
+2024-08-12 12:08:05,926 - WARNING - Testing Warning
+2024-08-12 12:08:05,926 - ERROR - Testing Error
+2024-08-12 12:09:48,183 - INFO - User stanleyjobson requested
+2024-08-12 12:09:55,227 - INFO - User stanleyjobson requested users
+2024-08-12 14:12:09,140 - DEBUG - Root endpoint accessed
+2024-08-12 14:12:09,140 - INFO - Testing Info
+2024-08-12 14:12:09,140 - WARNING - Testing Warning
+2024-08-12 14:12:09,140 - ERROR - Testing Error
+2024-08-12 14:12:17,359 - INFO - User stanleyjobson requested
+2024-08-12 14:12:30,067 - INFO - User stanleyjobson requested users
+2024-08-12 14:13:11,559 - INFO - User stanleyjobson requested users
+2024-08-12 14:43:06,316 - DEBUG - Root endpoint accessed
+2024-08-12 14:43:06,316 - INFO - Testing Info
+2024-08-12 14:43:06,316 - WARNING - Testing Warning
+2024-08-12 14:43:06,316 - ERROR - Testing Error
+2024-08-12 14:43:11,200 - INFO - User stanleyjobson requested
+2024-08-12 14:43:15,259 - INFO - User stanleyjobson requested users

@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "api-service"
+version = "0.1.0"
+description = "this is the api service"
+authors = ["Moniari <ti@moniari.com.br>"]
+readme = "README.md"
+packages = [{include = "api_service"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = {extras = ["all"], version = "0.110.0"}
+pydantic = {extras = ["dotenv"], version = "2.6.3"}
+pydantic-settings = "^2.2.1"
+watchfiles = "^0.21.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
