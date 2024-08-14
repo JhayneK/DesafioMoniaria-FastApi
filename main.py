@@ -17,7 +17,7 @@ security = HTTPBasic()
 
 logging.basicConfig(level=logging.INFO)
 
-quandl.ApiConfig.api_key = 'xicuz9aHTaJpEVeQx6Lf'
+quandl.ApiConfig.api_key = '######'
 
 class Price(BaseModel):
      def __call__(self):
